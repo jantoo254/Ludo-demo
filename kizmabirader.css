@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+.step0 {
+  top: 50px;
+  left: 50px;
+}
